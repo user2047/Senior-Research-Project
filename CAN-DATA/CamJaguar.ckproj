@@ -1,0 +1,148 @@
+{
+  "version": 9,
+  "measurementSetup": {
+    "sources": [
+      {
+        "baseNode": {
+          "identifier": "915687b6-1136-4043-87b1-daec4b6b1e99",
+          "name": "CAN 1",
+          "description": [
+            "Kvaser Virtual CAN Driver - 0",
+            "0: CAN - 100 kbit/s, 75%"
+          ],
+          "readOnlyProperties": false,
+          "readOnlyConnections": false,
+          "disabled": false
+        },
+        "isDataGenerator": false,
+        "channelSettings": {
+          "channelNumber": 0,
+          "lockedToSerialNumber": false,
+          "deviceProductCode": "00-00000-00000-0",
+          "deviceSerialNumber": "0",
+          "channelNumberOnDevice": 0,
+          "deviceCardType": 1,
+          "deviceCardNumber": 0,
+          "canConfiguration": {
+            "canMode": 1,
+            "accessMode": 1,
+            "silentMode": true,
+            "busParamsBitRate": 100000,
+            "busParams": {
+              "tq": 8,
+              "phase1": 2,
+              "phase2": 2,
+              "sjw": 2,
+              "prop": 3,
+              "prescaler": 20
+            },
+            "busParamsBitRateFd": 4000000,
+            "busParamsFd": {
+              "tq": 10,
+              "phase1": 7,
+              "phase2": 2,
+              "sjw": 2,
+              "prop": 0,
+              "prescaler": 2
+            },
+            "busParamsSamplePoint": 75,
+            "canConfigModes": []
+          },
+          "protocols": [
+            "CAN",
+            "CAN FD"
+          ]
+        }
+      }
+    ],
+    "dataProcessors": [],
+    "targets": [
+      {
+        "baseNode": {
+          "identifier": "2EE6667D-2C84-4BEB-822C-7494CC93B08E",
+          "name": "UI Streams",
+          "description": [
+            "Streams data and status to the user interface"
+          ],
+          "readOnlyProperties": true,
+          "readOnlyConnections": false,
+          "disabled": false
+        },
+        "connectedNodes": [
+          "915687b6-1136-4043-87b1-daec4b6b1e99"
+        ]
+      },
+      {
+        "baseNode": {
+          "identifier": "dc323213-58a9-470d-ba68-a136d78d15e1",
+          "name": "Message Logger 1",
+          "description": [
+            "C:\\Users\\camer\\OneDrive\\Documents\\Desktop\\Jaguar F Type CANBUS\\CANBUSLOG.csv"
+          ],
+          "readOnlyProperties": false,
+          "readOnlyConnections": false,
+          "disabled": false
+        },
+        "connectedNodes": [
+          "915687b6-1136-4043-87b1-daec4b6b1e99"
+        ],
+        "messageLoggerSettings": {
+          "fileName": "C:\\Users\\camer\\OneDrive\\Documents\\Desktop\\Jaguar F Type CANBUS\\CANBUSLOG.csv",
+          "fileFormat": 4,
+          "fileConflictAction": 2,
+          "canMessageFilter": {
+            "stdCanIds": "",
+            "extCanIds": "",
+            "filterType": 1
+          },
+          "startTriggerSettings": [],
+          "startTriggersOperator": 0,
+          "stopTriggerSettings": [],
+          "stopTriggersOperator": 0,
+          "autoRestartAfterStop": false,
+          "writeFileHeader": true,
+          "writeDataInHex": true,
+          "writeIdInHex": true,
+          "decimalSeparator": 1,
+          "colSeparator": 1,
+          "dataBytesConverterLimit": 8,
+          "numberOfTimeDecimals": 6,
+          "timeReference": 2,
+          "useCalendarTime": false,
+          "useUtcTime": false
+        }
+      }
+    ],
+    "language": "en"
+  },
+  "workspaces": [
+    {
+      "id": 1,
+      "title": "Workspace 1",
+      "workspacePaneId": 1
+    }
+  ],
+  "workspacePanes": [
+    {
+      "id": 1,
+      "containerData": {
+        "vertical": false,
+        "paneDataIds": [
+          2
+        ],
+        "paneRatios": [
+          1
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "componentData": {
+        "componentId": "message-trace-view",
+        "componentPropSlices": {
+          "project-data-internal-v1": "{\"fixedPosition\":true,\"txFilter\":null,\"channelFilter\":null,\"protocolFilter\":null,\"maxDataBytes\":64,\"columnWidths\":{},\"interpreter\":{\"key\":\"J1939\",\"text\":\"J1939\"},\"columns\":[\"expanded\",\"messageName\",\"sourceName\",\"id\",\"flags\",\"dataLength\",\"dlc\",\"data\",\"time\",\"dir\",\"protocol\",\"deltaTime\",\"j1939_pgn\",\"j1939_source\",\"j1939_destination\",\"j1939_priority\"],\"allColumnsOrder\":[\"expanded\",\"messageName\",\"sourceName\",\"id\",\"flags\",\"dataLength\",\"dlc\",\"data\",\"time\",\"dir\",\"protocol\",\"deltaTime\",\"j1939_pgn\",\"j1939_source\",\"j1939_destination\",\"j1939_priority\"]}"
+        }
+      }
+    }
+  ]
+}
