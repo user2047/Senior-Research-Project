@@ -1,0 +1,8 @@
+CSV CAN data
+Converted from Kvaser Memorator at,2026-04-17 13:53:26
+                                                        
+Format of data field,HEX
+Format of id field,HEX
+Timestamp Offset,            0.000000,seconds
+Logging started at,2026-04-17 13:53:21
+Time,Channel,id,Flags,DLC,Data0,Data1,Data2,Data3,Data4,Data5,Data6,Data7,Counter

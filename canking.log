@@ -1,0 +1,330 @@
+4/17/2026, 12:42:40 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:42:40 PM	1	AppManager	AppManager.subscribeForEvents
+4/17/2026, 12:42:40 PM	1	AppManager	AppManager.subscribeForLogMessages
+4/17/2026, 12:42:40 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:42:40 PM	1	DeviceManager	DeviceManager.subscribeForEvents
+4/17/2026, 12:42:40 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:42:40 PM	1	MeasurementManager	MeasurementManager.subscribeForEvents
+4/17/2026, 12:42:40 PM	1	MeasurementManager	MeasurementManager.subscribeForData
+4/17/2026, 12:42:40 PM	1	MeasurementManager	MeasurementManager.subscribeForStatus
+4/17/2026, 12:42:41 PM	1	MeasurementManager	getSetup
+4/17/2026, 12:42:41 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:42:41 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:42:41 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:42:41 PM	1	MeasurementManager	setSetup
+4/17/2026, 12:42:41 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:42:41 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:42:41 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:42:41 PM	4	CanKingService.Services.KvaserSdkDllLoadExceptionService	Failed to load canlib library. Verify that Kvaser Drivers are installed.
+4/17/2026, 12:42:42 PM	4	CanKingService.Services.KvaserSdkDllLoadExceptionService	Failed to load canlib library. Verify that Kvaser Drivers are installed.
+4/17/2026, 12:42:42 PM	4	CanKingService.Services.KvaserSdkDllLoadExceptionService	Failed to load canlib library. Verify that Kvaser Drivers are installed.
+4/17/2026, 12:42:42 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 12:42:42 PM	2	CanKingService.Services.MeasurementManager	Measurement setup has changed
+4/17/2026, 12:42:45 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:42:45 PM	2	serviceLocator	Connected to CanKing service
+4/17/2026, 12:42:46 PM	4	CanKingService.Services.KvaserSdkDllLoadExceptionService	Failed to load canlib library. Verify that Kvaser Drivers are installed.
+4/17/2026, 12:42:51 PM	4	CanKingService.Services.KvaserSdkDllLoadExceptionService	Failed to load canlib library. Verify that Kvaser Drivers are installed.
+4/17/2026, 12:42:56 PM	4	CanKingService.Services.KvaserSdkDllLoadExceptionService	Failed to load canlib library. Verify that Kvaser Drivers are installed.
+4/17/2026, 12:43:01 PM	4	CanKingService.Services.KvaserSdkDllLoadExceptionService	Failed to load canlib library. Verify that Kvaser Drivers are installed.
+4/17/2026, 12:43:02 PM	1	MeasurementManager	startMeasurement
+4/17/2026, 12:43:02 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 12:43:02 PM	2	CanKingService.Services.MeasurementManager	Measurement has started
+4/17/2026, 12:43:12 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:43:12 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:43:12 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:43:12 PM	4	CanKingService.Services.KvaserSdkDllLoadExceptionService	Failed to load canlib library. Verify that Kvaser Drivers are installed.
+4/17/2026, 12:43:20 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:43:55 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:44:30 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:44:38 PM	1	MeasurementManager	stopMeasurement
+4/17/2026, 12:44:38 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 12:44:38 PM	2	CanKingService.Services.MeasurementManager	Measurement has stopped
+4/17/2026, 12:44:41 PM	1	AppManager	AppManager.unsubscribeForEvents
+4/17/2026, 12:44:41 PM	1	AppManager	AppManager.unsubscribeForLogMessages
+4/17/2026, 12:44:41 PM	1	DeviceManager	DeviceManager.unsubscribeForEvents
+4/17/2026, 12:44:41 PM	1	MeasurementManager	MeasurementManager.unsubscribeForStatus
+4/17/2026, 12:44:41 PM	1	MeasurementManager	MeasurementManager.unsubscribeForData
+4/17/2026, 12:44:41 PM	1	MeasurementManager	MeasurementManager.unsubscribeForEvents
+4/17/2026, 12:44:41 PM	2	serviceLocator	Disconnected from CanKing service
+4/17/2026, 12:44:49 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:44:49 PM	1	AppManager	AppManager.subscribeForEvents
+4/17/2026, 12:44:49 PM	1	AppManager	AppManager.subscribeForLogMessages
+4/17/2026, 12:44:49 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:44:49 PM	1	DeviceManager	DeviceManager.subscribeForEvents
+4/17/2026, 12:44:49 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:44:49 PM	1	MeasurementManager	MeasurementManager.subscribeForEvents
+4/17/2026, 12:44:49 PM	1	MeasurementManager	MeasurementManager.subscribeForData
+4/17/2026, 12:44:49 PM	1	MeasurementManager	MeasurementManager.subscribeForStatus
+4/17/2026, 12:44:49 PM	1	MeasurementManager	getSetup
+4/17/2026, 12:44:50 PM	1	MeasurementManager	setSetup
+4/17/2026, 12:44:50 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 12:44:50 PM	2	CanKingService.Services.MeasurementManager	Measurement setup has changed
+4/17/2026, 12:44:50 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:44:50 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:44:50 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:44:50 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:44:50 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:44:50 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:44:55 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:44:55 PM	2	serviceLocator	Connected to CanKing service
+4/17/2026, 12:45:02 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:45:02 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:45:02 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:45:30 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:45:32 PM	1	MeasurementManager	startMeasurement
+4/17/2026, 12:45:32 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 12:45:32 PM	2	CanKingService.Services.MeasurementManager	Measurement has started
+4/17/2026, 12:45:37 PM	1	MeasurementManager	stopMeasurement
+4/17/2026, 12:45:37 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 12:45:37 PM	2	CanKingService.Services.MeasurementManager	Measurement has stopped
+4/17/2026, 12:45:44 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:45:44 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:45:44 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:46:01 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:46:01 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:46:01 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:46:01 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 12:46:01 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 12:46:05 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:46:08 PM	1	MeasurementManager	addSource
+4/17/2026, 12:46:08 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 12:46:08 PM	2	CanKingService.Services.MeasurementManager	Added new data source 'CAN 1'
+4/17/2026, 12:46:19 PM	1	MeasurementManager	startMeasurement
+4/17/2026, 12:46:19 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 12:46:19 PM	2	CanKingService.Services.MeasurementManager	Measurement has started
+4/17/2026, 12:46:40 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:46:49 PM	1	MeasurementManager	stopMeasurement
+4/17/2026, 12:46:49 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 12:46:49 PM	2	CanKingService.Services.MeasurementManager	Measurement has stopped
+4/17/2026, 12:47:15 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:47:50 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:48:25 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:49:00 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:49:35 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:50:10 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:50:45 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:51:20 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:51:55 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:52:30 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:53:05 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:53:08 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:53:08 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:53:08 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:53:08 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 12:53:08 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 12:53:30 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 12:53:30 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 12:53:33 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 12:53:38 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 12:53:38 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 12:53:38 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 12:53:41 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:53:41 PM	1	MeasurementManager	updateSource
+4/17/2026, 12:53:41 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 12:53:41 PM	2	CanKingService.Services.MeasurementManager	Updated data source 'CAN 1'
+4/17/2026, 12:53:52 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:53:52 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:53:52 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:53:52 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 12:53:52 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 12:53:55 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 12:53:55 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 12:53:57 PM	1	MeasurementManager	updateSource
+4/17/2026, 12:53:57 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 12:53:57 PM	2	CanKingService.Services.MeasurementManager	Updated data source 'CAN 1'
+4/17/2026, 12:54:00 PM	1	MeasurementManager	startMeasurement
+4/17/2026, 12:54:00 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 12:54:00 PM	2	CanKingService.Services.MeasurementManager	Measurement has started
+4/17/2026, 12:54:16 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:54:38 PM	1	MeasurementManager	stopMeasurement
+4/17/2026, 12:54:38 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 12:54:38 PM	2	CanKingService.Services.MeasurementManager	Measurement has stopped
+4/17/2026, 12:54:48 PM	2	CanKingService.Services.AppService	Log level changed to Trace
+4/17/2026, 12:54:48 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /appservice.AppService/SetLogLevel
+4/17/2026, 12:54:51 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:55:26 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:57:05 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:57:40 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:58:11 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:58:11 PM	1	AppManager	AppManager.subscribeForEvents
+4/17/2026, 12:58:11 PM	1	AppManager	AppManager.subscribeForLogMessages
+4/17/2026, 12:58:11 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:58:11 PM	1	DeviceManager	DeviceManager.subscribeForEvents
+4/17/2026, 12:58:11 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:58:11 PM	1	MeasurementManager	MeasurementManager.subscribeForEvents
+4/17/2026, 12:58:11 PM	1	MeasurementManager	MeasurementManager.subscribeForData
+4/17/2026, 12:58:11 PM	1	MeasurementManager	MeasurementManager.subscribeForStatus
+4/17/2026, 12:58:12 PM	1	MeasurementManager	setSetup
+4/17/2026, 12:58:12 PM	1	AppManager	AppManager.unsubscribeForEvents
+4/17/2026, 12:58:12 PM	1	AppManager	AppManager.unsubscribeForLogMessages
+4/17/2026, 12:58:12 PM	1	DeviceManager	DeviceManager.unsubscribeForEvents
+4/17/2026, 12:58:12 PM	1	MeasurementManager	MeasurementManager.unsubscribeForStatus
+4/17/2026, 12:58:12 PM	1	MeasurementManager	MeasurementManager.unsubscribeForData
+4/17/2026, 12:58:12 PM	1	MeasurementManager	MeasurementManager.unsubscribeForEvents
+4/17/2026, 12:58:12 PM	2	serviceLocator	Disconnected from CanKing service
+4/17/2026, 12:58:12 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 12:58:12 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/SetSetup
+4/17/2026, 12:58:12 PM	1	CanKingService.Services.MeasurementManager	Successfully sent MeasurementEvent (MeasurementSetupChanged)
+4/17/2026, 12:58:12 PM	2	CanKingService.Services.MeasurementManager	Measurement setup has changed
+4/17/2026, 12:58:12 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/SetSetup
+4/17/2026, 12:58:15 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:58:50 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:58:59 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:58:59 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:58:59 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:58:59 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 12:58:59 PM	1	CanKingService.Misc.LocalizationInterceptor	Ending call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 12:58:59 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 12:58:59 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 12:58:59 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 12:58:59 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 12:59:25 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 12:59:57 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 12:59:57 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 12:59:57 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 12:59:57 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 12:59:57 PM	1	CanKingService.Misc.LocalizationInterceptor	Ending call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 12:59:57 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 12:59:57 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 12:59:57 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 12:59:57 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 12:59:57 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 12:59:57 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 12:59:57 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /deviceservice.DeviceService/GetClassicCanBusSpeeds
+4/17/2026, 12:59:57 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: ServerStreaming / /deviceservice.DeviceService/GetCanFdBusSpeeds
+4/17/2026, 12:59:57 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /deviceservice.DeviceService/GetClassicCanBusSpeeds
+4/17/2026, 12:59:58 PM	1	CanKingService.Misc.LocalizationInterceptor	Ending call. Type/Method: ServerStreaming / /deviceservice.DeviceService/GetCanFdBusSpeeds
+4/17/2026, 1:00:00 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 1:00:00 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 1:00:00 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /deviceservice.DeviceService/GetClassicCanBusSpeeds
+4/17/2026, 1:00:00 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: ServerStreaming / /deviceservice.DeviceService/GetCanFdBusSpeeds
+4/17/2026, 1:00:00 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /deviceservice.DeviceService/GetClassicCanBusSpeeds
+4/17/2026, 1:00:00 PM	1	CanKingService.Misc.LocalizationInterceptor	Ending call. Type/Method: ServerStreaming / /deviceservice.DeviceService/GetCanFdBusSpeeds
+4/17/2026, 1:00:00 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:00:04 PM	1	MeasurementManager	updateSource
+4/17/2026, 1:00:04 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 1:00:04 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/UpdateSource
+4/17/2026, 1:00:04 PM	1	CanKingService.Services.MeasurementManager	Successfully sent MeasurementEvent (MeasurementSetupChanged)
+4/17/2026, 1:00:04 PM	2	CanKingService.Services.MeasurementManager	Updated data source 'CAN 1'
+4/17/2026, 1:00:04 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/UpdateSource
+4/17/2026, 1:00:18 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 1:00:18 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 1:00:18 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 1:00:18 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 1:00:18 PM	1	CanKingService.Misc.LocalizationInterceptor	Ending call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 1:00:18 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 1:00:18 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 1:00:18 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 1:00:18 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 1:00:18 PM	1	MeasurementManager	getMessageLogFileFormats
+4/17/2026, 1:00:18 PM	1	MeasurementManager	getMessageLogFileFormats
+4/17/2026, 1:00:18 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetLogFileFormats
+4/17/2026, 1:00:18 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetLogFileFormats
+4/17/2026, 1:00:19 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetLogFileFormats
+4/17/2026, 1:00:19 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetLogFileFormats
+4/17/2026, 1:00:35 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:00:41 PM	1	MeasurementManager	getFrameDefinitions
+4/17/2026, 1:00:41 PM	1	MeasurementManager	getFrameDefinitions
+4/17/2026, 1:00:41 PM	1	MeasurementManager	getFrameDefinitions
+4/17/2026, 1:00:41 PM	1	MeasurementManager	getFrameDefinitions
+4/17/2026, 1:00:41 PM	1	MeasurementManager	getFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:00:41 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetFrameDefinitions
+4/17/2026, 1:01:10 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:01:45 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:01:49 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 1:01:49 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 1:01:49 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 1:01:49 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 1:01:49 PM	1	CanKingService.Misc.LocalizationInterceptor	Ending call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 1:01:49 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 1:01:49 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 1:01:49 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 1:01:49 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 1:01:54 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 1:01:54 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 1:01:54 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 1:01:54 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 1:01:54 PM	1	CanKingService.Misc.LocalizationInterceptor	Ending call. Type/Method: ServerStreaming / /measurementservice.MeasurementService/GetDataFramesBeforeTimestamp
+4/17/2026, 1:01:54 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 1:01:54 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 1:01:54 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /measurementservice.MeasurementService/GetOnlineStatus
+4/17/2026, 1:01:54 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /deviceservice.DeviceService/GetDevices
+4/17/2026, 1:02:20 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:02:55 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:03:31 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:04:06 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:04:41 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:05:16 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:05:51 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:06:26 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:07:01 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:07:30 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 1:07:30 PM	3	DeviceGuide	Canlib warning: No Kvaser devices found.
+4/17/2026, 1:07:30 PM	4	CanKingService.DataFlows.Sources.CanChannelNode	No channel with the specified identifier exists
+4/17/2026, 1:07:30 PM	1	CanKingService.Services.MeasurementManager	Successfully sent MeasurementEvent (MeasurementSetupChanged)
+4/17/2026, 1:07:35 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 1:07:35 PM	1	CanKingService.Services.MeasurementManager	Successfully sent MeasurementEvent (MeasurementSetupChanged)
+4/17/2026, 1:07:36 PM	0	serviceLocator	ServiceInfo '{   "Port": 8203,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "Canlib not found.",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:12:41 PM	0	serviceLocator	ServiceInfo '{   "Port": 49673,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "5.51",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:12:41 PM	1	AppManager	AppManager.subscribeForEvents
+4/17/2026, 1:12:41 PM	1	AppManager	AppManager.subscribeForLogMessages
+4/17/2026, 1:12:41 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 1:12:41 PM	1	DeviceManager	DeviceManager.subscribeForEvents
+4/17/2026, 1:12:41 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 1:12:41 PM	1	MeasurementManager	MeasurementManager.subscribeForEvents
+4/17/2026, 1:12:41 PM	1	MeasurementManager	MeasurementManager.subscribeForData
+4/17/2026, 1:12:41 PM	1	MeasurementManager	MeasurementManager.subscribeForStatus
+4/17/2026, 1:12:42 PM	1	MeasurementManager	getSetup
+4/17/2026, 1:12:42 PM	1	MeasurementManager	setSetup
+4/17/2026, 1:12:42 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 1:12:42 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 1:12:42 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 1:12:42 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 1:12:42 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 1:12:42 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 1:12:42 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 1:12:42 PM	2	CanKingService.Services.MeasurementManager	Measurement setup has changed
+4/17/2026, 1:12:46 PM	0	serviceLocator	ServiceInfo '{   "Port": 49673,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "5.51",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:12:46 PM	2	serviceLocator	Connected to CanKing service
+4/17/2026, 1:12:46 PM	1	MeasurementManager	setSetup
+4/17/2026, 1:12:47 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 1:12:47 PM	2	CanKingService.Services.MeasurementManager	Measurement setup has changed
+4/17/2026, 1:12:51 PM	1	MeasurementManager	getDataFramesBeforeTimestamp
+4/17/2026, 1:12:51 PM	1	MeasurementManager	getOnlineStatus
+4/17/2026, 1:12:51 PM	1	DeviceManager	DeviceManager.getDevices
+4/17/2026, 1:12:51 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 1:12:51 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 1:12:56 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 1:12:56 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 1:12:58 PM	1	DeviceManager	DeviceManager.getClassicCanBusSpeeds
+4/17/2026, 1:12:58 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 1:13:01 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 1:13:01 PM	1	DeviceManager	DeviceManager.getCanFdBusSpeeds
+4/17/2026, 1:13:04 PM	1	MeasurementManager	addSource
+4/17/2026, 1:13:04 PM	1	MeasurementManager	Received MeasurementEvent (1)
+4/17/2026, 1:13:04 PM	2	CanKingService.Services.MeasurementManager	Added new data source 'CAN 2'
+4/17/2026, 1:13:22 PM	0	serviceLocator	ServiceInfo '{   "Port": 49673,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "5.51",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:13:57 PM	0	serviceLocator	ServiceInfo '{   "Port": 49673,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "5.51",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:14:00 PM	1	MeasurementManager	startMeasurement
+4/17/2026, 1:14:00 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 1:14:00 PM	2	CanKingService.Services.MeasurementManager	Measurement has started
+4/17/2026, 1:14:20 PM	1	MeasurementManager	stopMeasurement
+4/17/2026, 1:14:20 PM	1	MeasurementManager	Received MeasurementEvent (2)
+4/17/2026, 1:14:20 PM	2	CanKingService.Services.MeasurementManager	Measurement has stopped
+4/17/2026, 1:14:27 PM	2	CanKingService.Services.AppService	Log level changed to Trace
+4/17/2026, 1:14:27 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /appservice.AppService/SetLogLevel
+4/17/2026, 1:14:32 PM	0	serviceLocator	ServiceInfo '{   "Port": 49673,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "5.51",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:14:36 PM	1	CanKingService.Misc.LocalizationInterceptor	Starting receiving call. Type/Method: Unary / /appservice.AppService/SetLogLevel
+4/17/2026, 1:14:36 PM	2	CanKingService.Services.AppService	Log level changed to Trace
+4/17/2026, 1:14:36 PM	1	CanKingService.Misc.LocalizationInterceptor	Responding call. Type/Method: Unary / /appservice.AppService/SetLogLevel
+4/17/2026, 1:15:07 PM	0	serviceLocator	ServiceInfo '{   "Port": 49673,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "5.51",   "ConsoleCodePage": 0 }'
+4/17/2026, 1:15:42 PM	0	serviceLocator	ServiceInfo '{   "Port": 49673,   "Version": "7.4.0.5",   "BuildDate": "20260224124727",   "ApiVersion": "7.4.0",   "CanLibVersion": "5.51",   "ConsoleCodePage": 0 }'
